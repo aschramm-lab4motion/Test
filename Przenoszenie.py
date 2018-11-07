@@ -9,6 +9,7 @@ import datetime
 from shutil import copytree
 
 a = os.listdir(sys.argv[1]) #sciezka do drzewa wejsciowego do Comps/
+ccc = "test"
 
 Comps = sys.argv[1]
 CompsNeuro = sys.argv[2] #sciezka dla folderu neuronowego do WMNode
